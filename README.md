@@ -19,8 +19,8 @@ The app will open in your default web browser at http://localhost:3000.
 
 To use Moviez Bazaar, follow these steps:
 
--> Enter a movie title in the search bar and click the "Search" button.
--> The app will retrieve a list of search results and display them on the page.
+. Enter a movie title in the search bar and click the "Search" button.
+. The app will retrieve a list of search results and display them on the page.
 
 
 ## Features
